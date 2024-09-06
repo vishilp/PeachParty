@@ -1,0 +1,10 @@
+﻿  Actor.cpp
+C:\Users\18183\Desktop\PeachParty(mine)\PeachParty\Actor.cpp(338,19): warning C4101: 'sprite': unreferenced local variable
+  StudentWorld.cpp
+C:\Users\18183\Desktop\PeachParty(mine)\PeachParty\StudentWorld.cpp(140,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18183\Desktop\PeachParty(mine)\PeachParty\StudentWorld.cpp(233,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18183\Desktop\PeachParty(mine)\PeachParty\StudentWorld.cpp(255,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18183\Desktop\PeachParty(mine)\PeachParty\StudentWorld.cpp(275,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\18183\Desktop\PeachParty(mine)\PeachParty\StudentWorld.cpp(199): warning C4715: 'StudentWorld::isValidMove': not all control paths return a value
+  PeachParty.vcxproj -> C:\Users\18183\Desktop\PeachParty(mine)\Debug\PeachParty.exe
